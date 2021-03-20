@@ -48,7 +48,7 @@ yarn add vue.charts.css
 
 To download **Vue Charts.css** latest release, visit our GitHub repository:
 
-[https://github.com/mrspence/vue.charts.css/releases](https://github.com/Vue-Charts-CSS/vue.charts.css/releases)
+[https://github.com/Vue-Charts-CSS/vue.charts.css/releases](https://github.com/Vue-Charts-CSS/vue.charts.css/releases)
 
 Open the ZIP file and copy the `dist/vue-charts-css.min.js` file to your project.
 
