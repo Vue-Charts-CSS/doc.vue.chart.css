@@ -54,7 +54,7 @@ module.exports = {
       },
       {
         text: 'GitHub repo',
-        link: 'https://github.com/mrspence/vue.charts.css'
+        link: 'https://github.com/Vue-Charts-CSS/vue.charts.css'
       }
     ],
     sidebar: [
