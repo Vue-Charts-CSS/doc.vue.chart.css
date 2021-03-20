@@ -38,7 +38,7 @@ module.exports = {
     nav: [
       {
         text: 'Get Started',
-        link: '/docs/',
+        link: '/get-started/',
       },
       {
         text: 'Props',
@@ -60,13 +60,13 @@ module.exports = {
     sidebar: [
       {
         title: 'Get Started',
-        path: '/docs/',
+        path: '/get-started/',
         collapsable: false,
         sidebarDepth: -1,
         children: [
-          '/docs/installation',
-          '/docs/usage',
-          '/docs/about',
+          '/get-started/installation',
+          '/get-started/usage',
+          '/get-started/about',
         ]
       },
       {

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/usage/
+permalink: /get-started/usage/
 next: ../../props/
 ---
 

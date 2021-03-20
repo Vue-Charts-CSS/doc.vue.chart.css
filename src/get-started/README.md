@@ -52,7 +52,7 @@ When should you consider migrating to **Vue Charts.css**? In most cases, you nee
 
 ## Get Started
 
-To start using **Vue Charts.css** see the [installation](/docs/installation/) page and read the [usage](/docs/usage/) page explaining how to structure your data and apply CSS classes.
+To start using **Vue Charts.css** see the [installation](/get-started/installation/) page and read the [usage](/get-started/usage/) page explaining how to structure your data and apply CSS classes.
 
 ## License
 

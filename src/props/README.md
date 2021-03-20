@@ -1,5 +1,5 @@
 ---
-prev: ../docs/usage
+prev: ../get-started/usage
 next: ./heading
 ---
 

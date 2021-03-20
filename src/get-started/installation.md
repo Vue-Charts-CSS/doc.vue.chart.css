@@ -1,5 +1,5 @@
 ---
-permalink: /docs/installation/
+permalink: /get-started/installation/
 prev: ../
 ---
 

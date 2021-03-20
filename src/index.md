@@ -7,8 +7,8 @@ tagline: Vue Wrapper for the rising CSS data visualization framework
 ---
 
 <p class="action">
-  <a href="/docs/" class="action-button">Quick Start</a>
-  <a href="https://github.com/mrspence/charts.css" target="_blank" class="action-button github">GitHub Repo</a>
+  <a href="get-started" class="action-button">Quick Start</a>
+  <a href="https://github.com/Vue-Charts-CSS/vue.charts.css" target="_blank" class="action-button github">GitHub Repo</a>
   <br>
   Wrapper for <a href="https://github.com/ChartsCSS/charts.css" target="_blank">Charts.css</a>
 </p>
@@ -20,7 +20,7 @@ Charts.css uses CSS utility classes to style HTML elements as charts.
 This Vue wrapper does the rendering for you, so you can focus on your interactive data.
 
 <br><br>
-<a href="/docs/" class="action-button">Read the Docs</a>
+<a href="get-started/" class="action-button">Read the Docs</a>
 
 <div class="charts">
 
