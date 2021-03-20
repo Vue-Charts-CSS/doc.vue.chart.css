@@ -1,0 +1,105 @@
+/**
+ * Custom Styles
+ *
+ * ref: https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.theme-container .home
+  padding-top 0
+
+.home
+  text-align center
+
+.home .hero img
+  max-width 450px !important
+  margin 2rem auto !important
+
+.home .action-button
+  display inline-block
+  box-sizing border-box
+  font-size 1.1rem
+  padding 0.8rem 1.6rem
+  margin 0 1rem 1rem
+  border-radius 4px
+  transition background-color 0.1s ease
+  color #fff
+  background-color $accentColor
+
+.home .action-button.github
+  background-color #333
+
+.home .features
+  align-items center !important
+  padding 2.5rem 0 !important
+  margin 0 0 2.5rem !important
+  border-bottom 1px solid #eee
+
+.home .charts
+  display flex
+  justify-content space-between
+  flex-wrap wrap
+  gap 30px 10px
+  padding 4rem 0 4rem
+
+.home .chart a
+  display inline-block
+  background-image linear-gradient(135deg, #48c, #f57)
+  border-radius 50%
+  padding 20px
+  max-width 80px
+  transition-duration 0.3s
+
+.home .chart svg
+  width 80px
+  height 80px
+
+.home .chart p
+  margin 10px 0 0
+  font-size 13px
+
+.home .chart:hover a
+.home .chart:focus a
+  transform translateY(-8px) scale(1.05)
+
+.nav-links .repo-link
+.sidebar .nav-links .repo-link
+  display none !important
+
+.page-edit
+  text-align center
+  padding-top 3rem
+
+table
+  margin-right auto
+  margin-left auto
+  width fit-content
+
+.theme-default-content code
+  color #333
+
+.theme-container.example-page h1
+.theme-container.example-page h2
+.theme-container.example-page h3
+  text-align center
+  border-bottom 0
+
+.theme-container.example-page h2
+  margin 1rem auto
+  padding 0
+
+.theme-container.example-page h3
+  margin 2rem auto
+  padding 0
+
+.theme-container.example-page .examples
+  display grid
+  grid-template-columns 1fr 1fr
+  column-gap 50px
+
+@media (max-width: 959px)
+  .theme-container.example-page .examples
+    grid-template-columns 1fr
+    row-gap 50px
+
+.theme-container.builder-page h1
+  text-align center
