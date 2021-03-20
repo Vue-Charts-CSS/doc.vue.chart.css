@@ -3,7 +3,7 @@
   "short_name": "chartscss",
   "description": "Vue wrapper for the rising CSS data visualization framework",
   "lang": "en-US",
-  "start_url": "https://github.com/mrspence/vue.charts.css",
+  "start_url": "https://vue-charts-css.github.io/docs/",
   "background_color": "#fff",
   "theme_color": "#f57",
   "display": "standalone",
