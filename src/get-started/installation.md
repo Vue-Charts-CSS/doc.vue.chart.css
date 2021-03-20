@@ -34,7 +34,7 @@ Or [unpkg](https://unpkg.com/browse/vue.charts.css/) CDN:
 
 If you are developing a Node.js powered application, you can pull **Vue Charts.css** source files using your favorite package manager.
 
-Install using [npm](https://github.com/mrspence/vue.charts.css):
+Install using [npm](https://www.npmjs.com/package/vue.charts.css):
 
 ```bash
 npm install vue.charts.css
