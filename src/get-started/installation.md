@@ -48,12 +48,12 @@ yarn add vue.charts.css
 
 To download **Vue Charts.css** latest release, visit our GitHub repository:
 
-[https://github.com/mrspence/vue.charts.css/releases](https://github.com/mrspence/vue.charts.css/releases)
+[https://github.com/mrspence/vue.charts.css/releases](https://github.com/Vue-Charts-CSS/vue.charts.css/releases)
 
 Open the ZIP file and copy the `dist/vue-charts-css.min.js` file to your project.
 
 Next, you need to load the JS file in your HTML document. Paste the script path to your `<script>` tag and place it towards the bottom of the document `<body>`.
 
 ```html
-<link rel="stylesheet" href="path/to/your/charts.min.css">
+<script src="/path/to/your/vue-charts-css.min.js"></script>
 ```
