@@ -11,6 +11,17 @@ next: ../../props/
 
 ## Basic Setup
 
+Tell Vue to use **Vue Charts.CSS**
+
+```js{4}
+import Vue from "vue";
+import VueChartsCSS from "vue.charts.css";
+
+Vue.use(VueChartsCSS);
+```
+
+Then anywhere in your Vue app...
+
 ```vue
 <template>
     <charts-css
