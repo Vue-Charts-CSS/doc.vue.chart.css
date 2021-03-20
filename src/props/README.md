@@ -1,6 +1,6 @@
 ---
 prev: ../docs/usage
-next: ./wrapper
+next: ./heading
 ---
 
 # Props

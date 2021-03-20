@@ -1,6 +1,6 @@
 ---
 permalink: /charts/mixed/
-next: ../../customization/
+next: ../../development/
 ---
 
 # Mixed

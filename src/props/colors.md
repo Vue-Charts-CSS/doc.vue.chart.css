@@ -9,7 +9,7 @@ Chart colors help end-users to distinguish between data items and datasets.
 This Vue wrapper only provides basic styling options and recommends you do **advanced styling** with CSS selectors to encourage "seperation of concerns".
 
 ::: tip Note
-For help with **advanced styling**, please read [Charts.CSS guide to colors](https://chartscss.org/components/colors/)
+For help with **advanced styling**, please read [Charts.CSS guide to colors](https://chartscss.org/props/colors/)
 :::
 
 ## Change All Colors
@@ -51,4 +51,4 @@ For best performance we highly recommend using CSS selectors to change specific 
 
 ## More color options
 
-There's a whole world of options for styling. As mentioned at the start, [we recommend reading **Charts.CSS** guide to colors](https://chartscss.org/components/colors/) to learn how you can expand your chart's visual.
+There's a whole world of options for styling. As mentioned at the start, [we recommend reading **Charts.CSS** guide to colors](https://chartscss.org/props/colors/) to learn how you can expand your chart's visual.

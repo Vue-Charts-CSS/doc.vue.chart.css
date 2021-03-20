@@ -1,5 +1,5 @@
 ---
-prev: ../components/legend
+prev: ../props/legend
 next: ./bar
 ---
 

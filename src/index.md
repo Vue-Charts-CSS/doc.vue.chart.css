@@ -112,7 +112,7 @@ This Vue wrapper does the rendering for you, so you can focus on your interactiv
   </div>
 
   <div class="chart">
-    <a href="./components/stacked/" aria-label="Percentage Columns">
+    <a href="./props/stacked/" aria-label="Percentage Columns">
       <svg viewBox="0 0 100 100">
         <rect x="5"  y="15" width="15" height="30" style="fill:#fff; opacity:0.3;" />
         <rect x="5"  y="45" width="15" height="20" style="fill:#fff; opacity:0.6;" />
@@ -132,7 +132,7 @@ This Vue wrapper does the rendering for you, so you can focus on your interactiv
   </div>
 
   <div class="chart">
-    <a href="./components/stacked/" aria-label="Stacked Columns">
+    <a href="./props/stacked/" aria-label="Stacked Columns">
       <svg viewBox="0 0 100 100">
         <rect x="5"  y="55" width="15" height="10" style="fill:#fff; opacity:0.3;" />
         <rect x="5"  y="65" width="15" height="10" style="fill:#fff; opacity:0.6;" />

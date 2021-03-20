@@ -1,5 +1,4 @@
 ---
-prev: ../customization/animations
 next: ./design-principles
 ---
 

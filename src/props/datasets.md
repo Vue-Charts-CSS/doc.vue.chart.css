@@ -44,7 +44,7 @@ To add multiple datasets simply add more entries to your `datasets` variable.
 </script>
 ```
 
-You must also add [labels](/components/labels/) and optionally a [legend](/components/legend/) to describe the datasets.
+You must also add [labels](/props/labels/) and optionally a [legend](/props/legend/) to describe the datasets.
 
 ```vue{4,6}
 <charts-css

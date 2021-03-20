@@ -1,6 +1,6 @@
 ---
 permalink: /docs/about/
-next: ../../components/
+next: ../../props/
 ---
 
 # About

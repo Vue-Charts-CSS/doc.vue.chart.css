@@ -1,6 +1,5 @@
 ---
 permalink: /development/roadmap/
-next: ../../examples/
 ---
 
 # Roadmap
@@ -21,7 +20,7 @@ Planned Development:
 
 * **June 2021** - Release Beta (begin testing)
     * This may change if the underlying framework has built more charts
-    
+
 * **July 2021** - Release v1.0.0 🎉
 
 ## Long Term Roadmap
