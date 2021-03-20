@@ -5,11 +5,11 @@ next: ./installation
 
 # Introduction
 
-**Vue Charts.css** uses a new open source framework for data visualization. It replaces traditional JS charting libraries by using a **CSS framework** underneath.
+**Vue Charts.css** replaces traditional JS charting libraries by using a **CSS framework** underneath that allows front-end developers to build beautiful charts with full accessibility and no hassle. This wrapper encourages front-end developers to make their charts interactive and reactive.
 
 
 ::: tip Note
-This is the vue wrapper for Charts.css - don't need a Vue wrapper? <a target="_blank" href="https://github.com/ChartsCSS/charts.css">Go to vanilla Charts.css</a>
+This is the vue wrapper for Charts.css - don't need a Vue wrapper? <a target="_blank" href="hhttps://chartscss.org/s">Go to vanilla Charts.CSS</a>
 :::
 
 ::: danger Unreleased
