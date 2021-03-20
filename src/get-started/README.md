@@ -42,6 +42,8 @@ Some libraries fixed search engines visibility by injecting HTML nodes. Accessib
 
 With CSS frameworks, all this is not required. The raw data is part of the HTML making it visibility to search engines and screen readers. With CSS, rendering is not required, resulting in performance boost compare to JS solutions.
 
+With this wrapper, we introduce the best of both worlds: providing simple JavaScript interactivity and the benefits of using a CSS Framework. When designing interactivity, the smart developer wants to avoid writing long chains of procedural JavaScript. **Vue Chart.CSS** provides the developer with the simple tools to spin up CSS based charts that respond to changing data, seamlessly.
+
 ## Which is Better
 
 There is no better solution, it all depends on your needs and the capabilities of the solution you choose.
