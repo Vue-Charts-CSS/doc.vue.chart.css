@@ -1,3 +1,3 @@
 # Vue Charts.CSS
 
-Documentation explaining how to use [Vue Charts.CSS](https://github.com/mrspence/vue.charts.css).
+Documentation source files for [https://vue-charts-css.github.io/docs/](https://vue-charts-css.github.io/docs/)

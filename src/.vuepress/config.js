@@ -10,6 +10,8 @@ module.exports = {
 
   description: 'Vue wrapper for the rising CSS data visualization framework',
 
+  base: "/docs/",
+
   head: [
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/charts.css@0.9.0/dist/charts.min.css' }],
     ['link', { rel: 'icon', href: '/assets/img/logo.svg' }],
@@ -24,7 +26,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: 'https://github.com/mrspence/vue.charts.css',
+    repo: 'https://github.com/Vue-Charts-CSS/docs',
     docsBranch: 'main',
     docsDir: 'src',
     editLinks: true,
