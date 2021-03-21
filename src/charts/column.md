@@ -3,9 +3,9 @@ permalink: /charts/column/
 prev: ../
 ---
 
-# Bar
+# Column
 
-Bar charts display raw data as horizontal columns.
+Column charts display raw data as vertical columns.
 
 ::: warning Note
 These docs are still under development.
