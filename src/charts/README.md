@@ -9,7 +9,14 @@ next: ./bar
 
 ## Chart Types
 
-Before using charts, check the development status. If a chart type is already released, you can use it with the **usage class**.
+Before using charts, check the development status. If a chart type is already released, you can use it with the `type` prop.
+
+```vue{2}
+    <charts-css
+        type="line"
+        ...
+    />
+```
 
 | Type                | Development Status                                                  | Type Prop           |
 |:--------------------|:--------------------------------------------------------------------|:--------------------|
