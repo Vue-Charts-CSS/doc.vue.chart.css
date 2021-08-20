@@ -20,16 +20,15 @@ Before using charts, check the development status. If a chart type is already re
 
 | Type                | Development Status                                                  | Type Prop           |
 |:--------------------|:--------------------------------------------------------------------|:--------------------|
-| [Bar](./bar/)       | <Badge type="tip" vertical="middle" text="Released" />*             | `bar`               |
-| [Column](./column/) | <Badge type="tip" vertical="middle" text="Released" />*             | `column`            |
-| [Area](./area/)     | <Badge type="tip" vertical="middle" text="Released" />*             | `area  `            |
-| [Line](./line/)     | <Badge type="tip" vertical="middle" text="Released" />*             | `line`              |
+| [Bar](./bar/)       | <Badge type="tip" vertical="middle" text="Released" />              | `bar`               |
+| [Column](./column/) | <Badge type="tip" vertical="middle" text="Released" />              | `column`            |
+| [Area](./area/)     | <Badge type="tip" vertical="middle" text="Released" />              | `area  `            |
+| [Line](./line/)     | <Badge type="tip" vertical="middle" text="Released" />              | `line`              |
 | [Pie](./pie/)       | <Badge type="warning" vertical="middle" text="Under Development" /> | `pie`               |
 | [Donut](./donut/)   | <Badge type="warning" vertical="middle" text="Under Development" /> | `donut`             |
 | [Radar](./radar/)   | <Badge type="warning" vertical="middle" text="Under Development" /> | `radar`             |
 | [Polar](./polar/)   | <Badge type="warning" vertical="middle" text="Under Development" /> | `polar`             |
 
-\* Still subject to breaking changes
 
 ## Supported Props and Charts
 

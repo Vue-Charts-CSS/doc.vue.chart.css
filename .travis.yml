@@ -2,9 +2,9 @@ language: node_js
 node_js:
   - lts/*
 install:
-  - yarn --frozen-lockfile
+  - npm ci
 script:
-  - yarn run build
+  - npm run build
 deploy:
   provider: pages
   skip_cleanup: true

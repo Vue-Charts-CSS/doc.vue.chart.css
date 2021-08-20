@@ -9,10 +9,6 @@ Looking to quickly add **Vue Charts.css** to your project? You can use a [CDN](#
 
 This installation guide assumes you have already installed **Charts.CSS** following the [installation guide here](https://chartscss.org/docs/installation/). **Vue Charts.CSS** is a secondary wrapper to install on-top of this framework.
 
-::: danger Unreleased
-This project is still under heavy development, not yet recommended for production. Please see our [roadmap for more information](/development/roadmap/)
-:::
-
 ## CDN
 
 Copy one of the following `<link>` tags and paste it inside the document `<head>`.

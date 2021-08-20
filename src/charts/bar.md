@@ -7,10 +7,6 @@ prev: ../
 
 Bar charts display raw data as horizontal bars.
 
-::: warning Note
-These docs are still under development.
-:::
-
 ## Usage
 
 To visualize your data with bar chart, change the `type` prop to 'bar'

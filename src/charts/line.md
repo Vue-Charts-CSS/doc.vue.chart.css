@@ -6,10 +6,6 @@ permalink: /charts/line/
 
 Line charts display raw data connected with a straight line.
 
-::: warning Note
-These docs are still under development.
-:::
-
 ## Usage
 
 To visualize your data with line chart, change the `type` prop to 'line'

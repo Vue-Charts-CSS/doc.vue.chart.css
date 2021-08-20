@@ -7,10 +7,6 @@ prev: ../
 
 Column charts display raw data as vertical columns.
 
-::: warning Note
-These docs are still under development.
-:::
-
 ## Usage
 
 To visualize your data with column chart, change the `type` prop to 'column'

@@ -6,10 +6,6 @@ permalink: /charts/area/
 
 Area charts display raw data with colors between axis and line.
 
-::: warning Note
-These docs are still under development.
-:::
-
 ## Usage
 
 To visualize your data with area chart, change the `type` prop to 'area'
