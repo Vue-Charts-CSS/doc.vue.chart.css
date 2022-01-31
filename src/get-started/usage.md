@@ -15,12 +15,21 @@ next: ../../props/
 
 2. Tell Vue to use **Vue Charts.CSS**
 
+```js{2}
+createApp(App)
+    .use(VueChartCss)
+    .mount("#app")
+```
+
+<details><summary>Vue 2 version</summary>
+
 ```js{4}
 import Vue from "vue";
 import VueChartsCSS from "vue.charts.css";
 
 Vue.use(VueChartsCSS);
 ```
+</details>
 
 3. Then anywhere in your Vue app...
 
