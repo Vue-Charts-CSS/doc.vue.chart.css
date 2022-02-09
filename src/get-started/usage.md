@@ -21,7 +21,7 @@ import VueChartsCSS from "vue.charts.css"
 import App from "./app"
 
 createApp(App)
-    .use(VueChartCss)
+    .use(VueChartsCSS)
     .mount("#app")
 ```
 
